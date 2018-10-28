@@ -1,0 +1,5 @@
+name: FireworkCreator
+version: 1.0.1
+author: Simagdo
+main: de.simagdo.fireworkcreator.system.FireworkCreator
+api-version: 1.13
